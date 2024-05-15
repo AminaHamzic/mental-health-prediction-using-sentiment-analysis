@@ -1,5 +1,5 @@
 
-# Project Title
+# Mental Health Prediction Using Sentiment Analysis
 
 This project aims to predict mental health conditions based on sentiment analysis of textual data. It utilizes two machine learning algorithms: the Naive Bayes classifier and the Random Forest classifier.
 
